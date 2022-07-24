@@ -34,7 +34,7 @@
         |-- pages/
         |-- router/
         |-- store/
-        |-- App/vue
+        |-- App.vue
         |-- main.js
 ```
 
